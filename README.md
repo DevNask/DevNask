@@ -1,5 +1,5 @@
 <h1 align="center">Olá, como vai ? Sou Gabriel Nascimento, Estudante de Análise e Desenvolvimento de Sistemas</h1>
-<h3 align="center">Extremamente Apaixonado por Técnologias</h3>
+<h3 align="center">Extremamente Apaixonado por Técnologia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnask&label=Profile%20views&color=0e75b6&style=flat" alt="devnask" /> </p>
 
