@@ -1,16 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=ff1100&center=true&vCenter=true&width=500&lines=Gabriel+Nascimento+Fontes;Bem-vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
+<h1 align="center">Olá, como vai ? Sou Gabriel Nascimento, Estudante de Análise e Desenvolvimento de Sistemas</h1>
+<h3 align="center">Extremamente Apaixonado por Novas Técnologias</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnask&label=Profile%20views&color=0e75b6&style=flat" alt="devnask" /> </p>
 
-## 🚀 Habilidades
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<a href="https://linkedin.com/in/gabriel nascimento fontes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel nascimento fontes" height="30" width="40" /></a>
 </p>
 
----
-
-## 📬 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnfontes/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielwork3008@gmail.com)
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" altura="40"/> </a> </p>
