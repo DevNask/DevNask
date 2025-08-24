@@ -36,8 +36,3 @@
 
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=green)](https://open.spotify.com/user/gameplayshow2)
 
-###
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevNask/DevNask/output/pacman-contribution-graph.svg">
-
-###
