@@ -38,6 +38,6 @@
 
 ###
 
-![pacman contribution graph](https://raw.githubusercontent.com/DevNask/DevNask/output/pacman-contribution-graph.svg)
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevNask/DevNask/output/pacman-contribution-graph.svg">
 
 ###
