@@ -34,14 +34,6 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DevNask.DevNask&left_color=blue&right_color=yellow&left_text=visualiza%C3%A7%C3%A3o%20de%20perfil"  />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gameplayshow2" target ="next">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nascimento&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=green)](https://open.spotify.com/user/gameplayshow2)
 
 ###
