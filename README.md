@@ -42,6 +42,8 @@
   </a>
 </div>
 
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=green)](https://open.spotify.com/user/gameplayshow2)
+
 ###
 
 <picture>
