@@ -27,6 +27,9 @@
 </div>
 
 ###
+<h2>Contato</h2>
+<p><a href="https://www.linkedin.com/in/gabrielnfontes/"><img src="https://camo.githubusercontent.com/b38b096af756695c6acd839338fdf761a79e7282ab4b42b8d1fdd3f8c5d2ffa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a></p>
+###
 
 <h2 align="left">Visitantes</h2>
 
